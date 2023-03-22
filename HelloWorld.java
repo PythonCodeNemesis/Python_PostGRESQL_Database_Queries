@@ -1,8 +1,11 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello World");l̥
+        System.out.println("Hello World");
+
     }
 
-    public static void 
+    public static void sayHi(){
+        
+    }
 }
